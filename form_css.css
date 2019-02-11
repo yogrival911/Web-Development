@@ -1,0 +1,33 @@
+h1{
+  color: blue;
+  font-family: verdana;
+  background-color: skyblue;
+  font-size: 300%;
+  text-align: center;
+  margin-left: auto;
+}
+h1 {
+  color: Green;
+  background-color: rgb(102, 255, 255);
+}
+body {
+  background-color: lightblue;
+}
+h1 {
+  border-style: dashed;
+}
+
+input {
+  border-style: dotted;
+  border-width: thin;
+}
+h2 {
+  height: 50pxpx;
+  width: 100%;
+  background-color: red;
+  text-align: center;
+}
+
+ol {
+  background-color: lightgreen;
+}
